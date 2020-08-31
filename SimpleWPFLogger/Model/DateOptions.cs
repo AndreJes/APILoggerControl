@@ -1,11 +1,11 @@
-﻿using APILoggerControl.Enums;
+﻿using SimpleWPFLogger.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace APILoggerControl.Model
+namespace SimpleWPFLogger.Model
 {
     public class DateOptions
     {

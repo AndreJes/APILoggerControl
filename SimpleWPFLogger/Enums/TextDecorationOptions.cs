@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace APILoggerControl.Enums
+namespace SimpleWPFLogger.Enums
 {
     public enum TextDecorationOptions
     {

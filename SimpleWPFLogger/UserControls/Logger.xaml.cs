@@ -1,5 +1,5 @@
-﻿using APILoggerControl.Enums;
-using APILoggerControl.Model;
+﻿using SimpleWPFLogger.Enums;
+using SimpleWPFLogger.Model;
 using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
@@ -18,7 +18,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace APILoggerControl.UserControls
+namespace SimpleWPFLogger.UserControls
 {
     /// <summary>
     /// Interação lógica para Logger.xam
