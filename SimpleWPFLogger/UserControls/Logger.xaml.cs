@@ -35,7 +35,6 @@ namespace SimpleWPFLogger.UserControls
         {
             try
             {
-
                 if (options.LogTime)
                 {
                     LoggerText.Inlines.Add(GetLogTime(options.DateFormat, options.TextOptions));
@@ -44,7 +43,6 @@ namespace SimpleWPFLogger.UserControls
                 LoggerText.Inlines.Add(separator);
                 LoggerText.Inlines.Add(text);
                 LoggerText.Inlines.Add(new Run(Environment.NewLine));
-
             }
             catch (Exception)
             {
